@@ -15,7 +15,7 @@ Software Engineer
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,react,html,css,docker,kafka,postgres,redis,azure&perline=6" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,rider,react,html,css,docker,kafka,postgres,redis,azure&perline=6" alt="Tech stack icons" />
 </p>
 
 ## Contact
