@@ -1,16 +1,16 @@
-## Hi there 👋
+## Tech stack
 
-<!--
-**shoraLBRT/shoraLBRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,fastapi,postgres,docker,git,figma&perline=11" alt="Tech stack" />
+</p>
 
-Here are some ideas to get you started:
+## Activity & progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shoraLBRT&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoraLBRT&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p>
+  <img height="170" src="https://streak-stats.demolab.com?user=shoraLBRT&hide_border=true" alt="GitHub streak" />
+</p>
