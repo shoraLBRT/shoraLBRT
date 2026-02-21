@@ -5,9 +5,10 @@ Software Engineer
 
 ## Focus Areas
 
-- Backend development (.NET, ASP.NET Core, microservices)
+- Backend engineering (.NET, ASP.NET Core, microservices)
+- Scalable and high-performance system design
+- Event-driven architectures and streaming platforms (Kafka)
 - Frontend development (Blazor, React)
-- Event-driven systems and streaming (Kafka)
 - API design and system integrations
 
 ---
