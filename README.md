@@ -19,6 +19,4 @@ Software Engineer
   <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,rider,react,html,css,docker,kafka,postgres,redis,azure&perline=6" alt="Tech stack icons" />
 </p>
 
-## Contact
-
-- Telegram: [@albertshor](https://t.me/albertshor)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shoraLBRT&theme=aura)
