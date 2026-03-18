@@ -16,7 +16,6 @@ Software Engineer
 
 - Backend engineering (.NET, ASP.NET Core, microservices)
 - Scalable and high-performance system design
-- Event-driven architectures and streaming platforms (Kafka)
 - Frontend development (Blazor, React)
 - API design and system integrations
 
