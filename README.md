@@ -2,27 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=150&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# Albert Shorov  
+# Albert Shorov
 Software Engineer
 
-![Backend Engineering](https://img.shields.io/badge/Backend-Engineering-0d1117?style=flat)
-![Scalable Applications](https://img.shields.io/badge/Scalable-Applications-0d1117?style=flat)
-![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven-Architecture-0d1117?style=flat)
-![Performance Optimization](https://img.shields.io/badge/Performance-Optimization-0d1117?style=flat)
+### Some of it helps.
+
+- **[Transliterator](https://github.com/shoraLBRT/Transliterator)** — turns Arabic into Russian Cyrillic, phonology, tajweed and all `C#`
+- **[ritocode](https://github.com/shoraLBRT/ritocode)** — practise code review on real code, learning the best code quality at the architect level `C#` `React`
+- **[RISL](https://github.com/shoraLBRT/RISL)** — a sign language dictionary, in production for a charity fund `C#` `Blazor`
+- **[WikiWeaver](https://github.com/shoraLBRT/WikiWeaver)** — a ready-made template for a multi-paragraph wiki `C#` `React`
+- **[mktba](https://github.com/shoraLBRT/mktba)** — based on WikiWeaver, a multi-scholar Islamic wiki `C#` `React`
 
 ---
 
-## Focus Areas
-
-- Backend engineering (.NET, ASP.NET Core, microservices)
-- Scalable and high-performance system design
-- Frontend development (Blazor, React)
-- API design and system integrations
+C# · TypeScript · ASP.NET Core · Blazor · WebAssembly · React
 
 ---
 
-## Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,rider,react,html,css,docker,kafka,postgres,redis,azure&perline=6" alt="Tech stack icons" />
-</p>
+**Day to day:** PostgreSQL · MSSQL · Redis · Kafka · Docker · Azure · EF Core · xUnit · Testcontainers · Roslyn analyzers · ESLint · ffmpeg
