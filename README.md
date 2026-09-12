@@ -9,14 +9,14 @@ Software Engineer
 
 - **[Transliterator](https://github.com/shoraLBRT/Transliterator)** — turns Arabic into Russian Cyrillic, phonology, tajweed and all `C#`
 - **[ritocode](https://github.com/shoraLBRT/ritocode)** — practise code review on real code, learning the best code quality at the architect level `C#` `React`
-- **[RISL](https://github.com/shoraLBRT/RISL)** — a sign language dictionary, in production for a charity fund `C#` `Blazor`
-- **[WikiWeaver](https://github.com/shoraLBRT/WikiWeaver)** — a ready-made template for a multi-paragraph wiki `C#` `React`
+- **[RISL](https://github.com/shoraLBRT/RISL)** — Russian Islamic Sign Language dictionary, charity fund's web-app `C#` `Blazor`
+- **[WikiWeaver](https://github.com/shoraLBRT/WikiWeaver)** — template for a multi-paragraph wiki `C#` `React`
 - **[mktba](https://github.com/shoraLBRT/mktba)** — based on WikiWeaver, a multi-scholar Islamic wiki `C#` `React`
 
 ---
 
-C# · TypeScript · ASP.NET Core · Blazor · WebAssembly · React
+C# · TypeScript · SQL · Python · ASP.NET Core · Blazor · WebAssembly · React
 
 ---
 
-**Day to day:** PostgreSQL · MSSQL · Redis · Kafka · Docker · Azure · EF Core · xUnit · Testcontainers · Roslyn analyzers · ESLint · ffmpeg
+**Day to day:** PostgreSQL · MSSQL · Redis · Kafka · Docker · Azure DevOps · EF Core · xUnit · OpenXML · Testcontainers · Roslyn analyzers · ESLint · ffmpeg
