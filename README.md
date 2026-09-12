@@ -15,7 +15,7 @@ Software Engineer
 
 ---
 
-C# · TypeScript · SQL · Python · ASP.NET Core · Blazor · WebAssembly · React
+C# · TypeScript · JavaScript · HTML/CSS · SQL · Python · ASP.NET Core · Blazor · WebAssembly · React
 
 ---
 
