@@ -19,4 +19,4 @@ C# · TypeScript · JavaScript · HTML/CSS · SQL · Python · ASP.NET Core · B
 
 ---
 
-**Day to day:** PostgreSQL · MSSQL · Redis · Kafka · Docker · Azure DevOps · EF Core · xUnit · OpenXML · Testcontainers · Roslyn analyzers · ESLint · ffmpeg · Claude
+**Day to day:** PostgreSQL · MSSQL · Redis · Kafka · Docker · Azure DevOps · EF Core · xUnit · OpenXML · Testcontainers · Roslyn analyzers · ESLint · ffmpeg
