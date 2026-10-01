@@ -8,13 +8,13 @@ Software Engineer
 ### Some of it helps.
 
 **Shipped**
-- **[Transliterator](…/Transliterator)** `v1.0` — turns Arabic into Russian Cyrillic: phonology, tajweed and all `C#` · **[live](https://shoralbrt.github.io/Transliterator)**
-- **[RISL](…)** `v1.0` — Russian Islamic Sign Language dictionary, charity fund's web-app `C#` `Blazor`
-- **[WikiWeaver](…)** `MVP` — template for a multi-paragraph wiki `C#` `React`
+- **[Transliterator](https://github.com/shoraLBRT/Transliterator)** `v1.0` — turns Arabic into Russian Cyrillic: phonology, tajweed and all `C#` · **[live](https://shoralbrt.github.io/Transliterator)**
+- **[RISL](https://github.com/shoraLBRT/RISL)** `v1.0` — Russian Islamic Sign Language dictionary, charity fund's web-app `C#` `Blazor` · **[live](https://risl.onrender.com/)**
+- **[WikiWeaver](https://github.com/shoraLBRT/WikiWeaver)** `MVP` — template for a multi-paragraph wiki `C#` `React`
 
 **In progress**
-- **[ritocode](…)** — practise code review on real code, learning the best code quality at the architect level `C#` `React`
-- **[mktba](…)** — based on WikiWeaver, a multi-scholar Islamic wiki `C#` `React`
+- **[ritocode](https://github.com/shoraLBRT/ritocode)** — practise code review on real code, learning the best code quality at the architect level `C#` `React`
+- **[mktba](https://github.com/shoraLBRT/mktba)** — based on WikiWeaver, a multi-scholar Islamic wiki `C#` `React`
 
 ---
 
