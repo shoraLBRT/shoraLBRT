@@ -8,7 +8,7 @@ Software Engineer
 ### Some of it helps.
 
 **Shipped**
-- **[Transliterator](https://github.com/shoraLBRT/Transliterator)** `v1.0` — turns Arabic into Russian Cyrillic: phonology, tajweed and all `C#` · **[live](https://shoralbrt.github.io/Transliterator)**
+- **[Transliterator](https://github.com/shoraLBRT/Transliterator)** `v1.0` — turns Arabic into Russian Cyrillic: phonology, tajweed and all `C#` `HTML/CSS` · **[live](https://shoralbrt.github.io/Transliterator)**
 - **[RISL](https://github.com/shoraLBRT/RISL)** `v1.0` — Russian Islamic Sign Language dictionary, charity fund's web-app `C#` `Blazor` · **[live](https://risl.onrender.com/)**
 - **[WikiWeaver](https://github.com/shoraLBRT/WikiWeaver)** `MVP` — template for a multi-paragraph wiki `C#` `React`
 
