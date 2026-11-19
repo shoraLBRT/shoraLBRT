@@ -14,12 +14,12 @@ Software Engineer
 - **[WikiWeaver](https://github.com/shoraLBRT/WikiWeaver)** `MVP` — template for a multi-paragraph wiki `C#` `React`
 
 **Code Impact**
-- **[ritocode](https://github.com/shoraLBRT/ritocode)** `v0.1.0` — practise code review on real code, learning the best code quality at the architect level `C#` `React`
-- **[habze](https://github.com/shoraLBRT/habze)** `v1.0.1` — one way of working for every project built by Claude Code agents: the standard, the session skills, the adoption tools `JavaScript`
+- **[ritocode](https://github.com/shoraLBRT/ritocode)** `v0.1.0` — practise code review on real code, learn architect-level code quality `C#` `React`
+- **[habze](https://github.com/shoraLBRT/habze)** `v1.0.1` — one way of working for agent-built projects: standard, session skills, adoption tools `JavaScript`
 
 **Trashcan**
-- **[Dota 2 Lore Map](https://github.com/shoraLBRT/dota-lore-map)** `v0.4.0` — interactive map of the Dota 2 world: regions, locations, heroes, art and cinematics `TypeScript` `React` · **[live](https://shoralbrt.github.io/dota-lore-map/)**
-- **[TimeShift](https://github.com/shoraLBRT/TimeShift)** `v0.1.0` — Telegram bot that prefills how you spent your time and asks only to confirm or correct `C#` `ASP.NET Core` `Telegram`
+- **[Dota 2 Lore Map](https://github.com/shoraLBRT/dota-lore-map)** `v0.4.0` — interactive map of the Dota 2 world: regions, heroes, art and cinematics `TypeScript` `React` · **[live](https://shoralbrt.github.io/dota-lore-map/)**
+- **[TimeShift](https://github.com/shoraLBRT/TimeShift)** `v0.1.0` — time tracker that prefills your day, you only confirm or correct `C#` `ASP.NET Core`
 
 ---
 
